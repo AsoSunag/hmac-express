@@ -15,7 +15,9 @@
   ],
   "homepage": "https://github.com/AsoSunag/hmac-express",
   "dependencies": {
-    "buffer-equal-constant-time": "^1.0.1",
+    "buffer-equal-constant-time": "^1.0.1"
+  },
+  "devDependencies": {
     "mocha": "^2.4.5"
   },
   "scripts": {
